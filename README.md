@@ -1,5 +1,5 @@
 # CodSoft
-ML Internship tasks 
+ML Internship tasks :
 
 -> **Customer Churn Prediction** <br />
         dataset : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data
