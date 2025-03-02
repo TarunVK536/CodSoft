@@ -6,7 +6,7 @@ ML Internship tasks
     
 
 -> Spam SMS Detection <br />
-        dataset : 
+        dataset : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 -> Movie Genre Classification <br />
         dataset : https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
